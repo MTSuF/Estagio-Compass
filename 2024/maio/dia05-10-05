@@ -1,1 +1,26 @@
+## SPRINT 01 DIA 05
 
+
+Dinâmica:
+
+Discussão
+
+O QA garante que o produto esteja de acordo com a visão do cliente, segurança, e aumenta a confiabilidade e a usabilidade do software.
+
+Um relatório de bugs bem estruturado ajuda um profissional de QA a comunicar problemas de forma eficaz, facilitando a priorização, diagnóstico e correção rápida de defeitos, 
+promovendo um ciclo de desenvolvimento mais eficiente e colaborativo
+
+Os fundamentos do teste envolvem a identificação, análise e avaliação sistemática de defeitos em software, usando métodos e princípios estruturados para garantir qualidade,
+prevenir falhas e aprimorar a satisfação do usuário final.
+
+A customização dos testes por contexto envolve adaptar as abordagens de teste às necessidades específicas de cada segmento, como priorizar robustez em telefonia, 
+experiência do cliente no varejo e segurança e conformidade no financeiro.
+
+O agrupamento de defeitos, baseado no Princípio de Pareto, indica que concentrar testes em uma pequena parte dos módulos, que contém a maioria dos defeitos, 
+pode oferecer benefícios consideráveis ao priorizar áreas críticas.
+
+O teste só aumenta a qualidade do software quando defeitos são identificados e corrigidos, a conformidade com os requisitos funcionais é verificada, e os requisitos não funcionais,
+como confiabilidade, usabilidade e escalabilidade, são avaliados.
+
+A psicologia do teste reconhece a importância da comunicação sensível e colaborativa entre testadores e desenvolvedores,
+promovendo um ambiente de trabalho respeitoso que facilita a identificação e resolução eficiente de defeitos.
