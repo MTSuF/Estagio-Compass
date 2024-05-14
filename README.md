@@ -7,7 +7,7 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 ## Índice
 
 ### Sprint 1
-- [Dia 01]([dia01-06-05.md](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia01-06-05)) - Organização, GitHub e GitLab, ReadMe.
+- [Dia 01](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia01-06-05) - Organização, GitHub e GitLab, ReadMe.
 - [Dia 02](dia02-07-05.md) - Scrum, métodos ágeis, papéis e responsabilidades.
 - [Dia 03](dia03-08-05.md) - Fundamentos do teste de software(parte 1).
 - [Dia 04](dia04-09-05.md) - Fundamentos do teste de software (parte 2).
