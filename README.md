@@ -1,4 +1,4 @@
-# Estagio-Compass
+# Estágio-Compass
 
 ## Bem-vindo ao Meu Repositório de Estudos
 
