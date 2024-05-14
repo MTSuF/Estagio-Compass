@@ -8,7 +8,7 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 
 ### Sprint 1
 - [Dia 01](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia01-06-05) - Organização, GitHub e GitLab, ReadMe.
-- [Dia 02](dia02-07-05.md) - Scrum, métodos ágeis, papéis e responsabilidades.
+- [Dia 02](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia02-07-05) - Scrum, métodos ágeis, papéis e responsabilidades.
 - [Dia 03](dia03-08-05.md) - Fundamentos do teste de software(parte 1).
 - [Dia 04](dia04-09-05.md) - Fundamentos do teste de software (parte 2).
 - [Dia 05](dia05-10-05.md) - Fundamentos do teste de software (parte 3) + Myers e o princípio de pareto + bate-papo e discussões.
