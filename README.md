@@ -21,7 +21,9 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 - Gabriel Just
 - Ricardo Enio Neckel
 - Jorge Soares de Carvalho
-- Letícia Ribeiro de Souza Barbosa dos Santos 
+- Letícia Ribeiro de Souza Barbosa dos Santos
+-  Gabriel Kust
+-  Enzo Rossi
 
 ## :fountain_pen: Autor
 - Mathias Uecker Fischer
