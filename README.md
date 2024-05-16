@@ -4,7 +4,7 @@
 
 Este repositório foi criado para documentar minha jornada de aprendizado e compartilhar conhecimentos adquiridos em diversas áreas. Aqui você encontrará resumos, notas detalhadas e outros materiais úteis que compilei durante meus estudos.
 
-## Índice
+## :point_right: Índice
 
 ### Sprint 1
 - [Dia 01](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia01-06-05.md) - Organização, GitHub e GitLab, ReadMe.
@@ -23,6 +23,6 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 - Jorge Soares de Carvalho
 - Letícia Ribeiro de Souza Barbosa dos Santos 
 
-## Autor
+## :fountain_pen: Autor
 - Mathias Uecker Fischer
 <img src="https://github.com/MTSuF/Estagio-Compass/assets/129664506/fb2acdb7-b7ac-4b45-929e-b77ea928f994" alt="Mathias Uecker Fischer" width="250" height="300">
