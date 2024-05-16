@@ -25,4 +25,4 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 
 ## Autor
 - Mathias Uecker Fischer
-<img src="https://github.com/MTSuF/Estagio-Compass/assets/129664506/fb2acdb7-b7ac-4b45-929e-b77ea928f994" alt="Mathias Uecker Fischer" width="300" height="300">
+<img src="https://github.com/MTSuF/Estagio-Compass/assets/129664506/fb2acdb7-b7ac-4b45-929e-b77ea928f994" alt="Mathias Uecker Fischer" width="250" height="300">
