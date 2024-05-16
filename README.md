@@ -16,3 +16,9 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 - [Dia 07](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia07-14-05.md) - SQL.
 - [Dia 08](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia08-15-05.md) - NoSQL.
 - [Dia 09](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia09-16-05.md) - CyberSecurity.
+
+## Contribuições 
+- Gabriel Just
+- Ricardo Enio Neckel
+- Jorge Soares de Carvalho
+- Letícia Ribeiro de Souza Barbosa dos Santos 
