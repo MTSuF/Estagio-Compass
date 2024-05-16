@@ -14,3 +14,4 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 - [Dia 05](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia05-10-05.md) - Fundamentos do teste de software (parte 3) + Myers e o princípio de pareto + bate-papo e discussões.
 - [Dia 06](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia06-13-05.md) - Fundamentos do teste de software (Back-End).
 - [Dia 07](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia07-14-05.md) - SQL.
+- [Dia 08](https://github.com/MTSuF/Estagio-Compass/blob/main/2024/maio/dia09-16-05.md) - CyberSecurity.
