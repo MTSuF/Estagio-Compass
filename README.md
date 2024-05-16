@@ -22,7 +22,7 @@ Este repositório foi criado para documentar minha jornada de aprendizado e comp
 - Ricardo Enio Neckel
 - Jorge Soares de Carvalho
 - Letícia Ribeiro de Souza Barbosa dos Santos
--  Gabriel Kust
+-  Gabriel Knust
 -  Enzo Rossi
 
 ## :fountain_pen: Autor
